@@ -2,6 +2,8 @@
 
 ![Screenshot](reelboard_de_4.jpg)
 ![Screenshot](reel_Board_vcd_badge.jpg)
+![Screenshot](reelboard_de_5.jpg)
+
 
 Version 02.2024: Maindisplay on an reel board with LVGL support. Now for "reelboard hardware 1507.3" and Zephyr-sdk-0.10.3.
 
