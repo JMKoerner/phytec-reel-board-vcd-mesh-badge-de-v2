@@ -2,6 +2,8 @@ phytec-reel-board-vcd-mesh-badge-de-v2:
 
 Maindisplay on an reel board with LVGL support. Now for "reelboard hardware 1507.3" and Zephyr-sdk-0.10.3.
 
+Here is the complete buid directory for flashing direct in board 1507.3 available.
+
 This demo combined a LVGL demo with the mesh-badge demo, both from PHYTEC Messtechnik GmbH www.phytec.de
 
 For more information please read README.rst (german/english)
