@@ -3,7 +3,7 @@
 ![Screenshot](reel_Board_vcd_badge.jpg)
 ![Screenshot](reelboard_de_4.jpg)
 
-Maindisplay on an reel board with LVGL support. Now for "reelboard hardware 1507.3" and Zephyr-sdk-0.10.3.
+Version 02.2024: Maindisplay on an reel board with LVGL support. Now for "reelboard hardware 1507.3" and Zephyr-sdk-0.10.3.
 
 Here is the complete build directory for flashing direct in board 1507.3 available.
 
