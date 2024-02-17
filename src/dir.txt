@@ -1,0 +1,12 @@
+insgesamt 132
+-rw-r--r-- 1 jk users   886  8. Jan 13:03 board.h
+-rw-r--r-- 1 jk users     0 12. Jan 11:52 dir.txt
+-rw-r--r-- 1 jk users  5490  8. Jan 13:06 main.c
+-rw------- 1 jk users 16918 12. Jan 11:45 mesh.c
+-rw------- 1 jk users  1276 24. Mär 2019  mesh.h
+-rw------- 1 jk users  4901 12. Jan 11:47 periphs.c
+-rw-r--r-- 1 jk users 41336  5. Dez 2019  qrcodegen.c
+-rw-r--r-- 1 jk users 14219  5. Dez 2019  qrcodegen.h
+-rw------- 1 jk users 13667 12. Jan 11:38 reel_board.c
+-rw-r--r-- 1 jk users  4796 10. Jan 14:21 vcd_epaper.c
+-rw-r--r-- 1 jk users   837 12. Jan 11:49 vcd.h
