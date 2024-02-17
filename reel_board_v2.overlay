@@ -1,0 +1,12 @@
+/*
+ * Copyright (c) 2018 Phytec Messtechnik GmbH
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+&spi1 {
+	ssd16xxfb@0 {
+		label = "DISPLAY";
+	};
+};
+
