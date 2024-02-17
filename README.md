@@ -1,4 +1,7 @@
-phytec-reel-board-vcd-mesh-badge-de-v2:
+# phytec-reel-board-vcd-mesh-badge-de-v2:
+
+![Screenshot](reel_Board_vcd_badge.jpg)
+![Screenshot](reelboard_de_4.jpg)
 
 Maindisplay on an reel board with LVGL support. Now for "reelboard hardware 1507.3" and Zephyr-sdk-0.10.3.
 
